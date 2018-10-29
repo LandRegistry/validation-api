@@ -1,0 +1,7 @@
+Flask==0.12.4
+Flask-LogConfig==0.4.2
+Flask-Script==2.0.5
+Flask-Negotiate==0.1.0
+requests==2.20.0
+jsonschema==2.6.0
+shapely==1.6.2.post1

@@ -1,0 +1,49 @@
+{
+  "geometry": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                291267.338,
+                93516.097
+              ],
+              [
+                291267.912,
+                93511.326
+              ],
+              [
+                291274.679,
+                93511.974
+              ],
+              [
+                291274.132,
+                93516.65
+              ],
+              [
+                291267.338,
+                93516.097
+              ]
+            ]
+          ]
+        },
+        "properties": null,
+        "id": "Hello"
+      }
+    ]
+  },
+  "registration-date": "2017-03-03",
+  "local-land-charge": 4,
+  "charge-type": "s8 Land Compensation Charge",
+  "charge-geographic-description": "17 Main Street, Place",
+  "further-information-location": "Council Offices, Water Dept.",
+  "further-information-reference": "XR23232",
+  "originating-authority": "Place City Council",
+  "instrument": "Deed",
+  "land-works-particulars": "The particulars of the land works",
+  "retained-land-description": "Description of the retained land",
+  "start-date": "2015-01-01"
+}
